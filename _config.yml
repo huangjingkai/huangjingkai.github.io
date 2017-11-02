@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "简介"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "当前就职于华为云CloudBU部门，专注DCS / DDM / DMS等云中间件服务。"
+  bio              : "当前就职于华为云CloudBU部门，专注DCS/DDM等云中间件服务。"
   location         : "中国-广东-深圳"
   email            : huangjingkai@foxmail.com
   uri              :
