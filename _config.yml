@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "
 # Site Settings
 locale                   : "zh-CN"
 title                    : "黄靖凯的个人BLOG"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "黄靖凯"
 description              : "略懂云计算，目前就职于华为云CloudBU部门，专注DCS/DDM/DMS/ELB/RDS等中间件业务。"
 url                      : "http://blog.huangjingkai.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "黄靖凯"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "略懂云计算，目前就职于华为云CloudBU部门。关注Redis、Memcached、Ignite、Mycat、LVS、Nginx、Docker等开源软件，中间件技术狂热爱好者。."
+  bio              : "略懂云计算，目前就职于华为云CloudBU部门，专注DCS/DDM/DMS/ELB/RDS等中间件业务。"
   location         : "中国-广东-深圳"
   email            : huangjingkai#foxmail.com
   uri              :
