@@ -73,6 +73,12 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - title: About
+    url: /about
+  - title: Huawei Cloud
+    url: http://www.huaweicloud.com
+    external: true
+
 
 # Analytics
 analytics:
